@@ -1,0 +1,9 @@
+# Ignore all
+*
+# excluding Coq-scripts
+!*.v
+# and Coq configuration file
+!_CoqProject
+# and README.md
+!README.md
+
